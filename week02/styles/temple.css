@@ -8,15 +8,14 @@
 h1{
     text-align: center;
 }
-picture {
-     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
+
 picture img{
-    width: 350px;
+    width: 300px;
     height: auto;
     margin: 0 auto;
     display: block;
     margin: 0 auto;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
    
 
 }
@@ -37,6 +36,7 @@ footer p{
     padding: 10px;
     text-align: center;
 }
+
 
 
 
