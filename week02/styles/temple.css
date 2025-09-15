@@ -10,7 +10,7 @@ h1{
 }
 
 picture img{
-    width: 300px;
+    width: 350px;
     height: auto;
     margin: 0 auto;
     display: block;
@@ -35,4 +35,5 @@ footer p{
     padding: 10px;
     text-align: center;
 }
+
 
